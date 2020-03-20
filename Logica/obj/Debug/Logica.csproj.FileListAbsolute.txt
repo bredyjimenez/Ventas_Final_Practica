@@ -1,0 +1,54 @@
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Logica.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Logica.pdb
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\Logica.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\Logica.pdb
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Datos.dll
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Datos.pdb
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Entidades.dll
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Logica.dll
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Logica.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Datos.dll
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Datos.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Logica\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Secc_901_Final\Logica\obj\Debug\Logica.dll
+C:\Users\Peter\Documents\Secc_901_Final\Logica\obj\Debug\Logica.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Logica.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Logica.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Datos.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Datos.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\Logica.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Logica\obj\Debug\Logica.pdb
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Logica.dll
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Logica.pdb
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Datos.dll
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Entidades.dll
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Datos.pdb
+C:\Users\O\Documents\Secc_901_Final\Logica\bin\Debug\Entidades.pdb
+C:\Users\O\Documents\Secc_901_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\O\Documents\Secc_901_Final\Logica\obj\Debug\Logica.dll
+C:\Users\O\Documents\Secc_901_Final\Logica\obj\Debug\Logica.pdb
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Logica.dll
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Logica.pdb
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Datos.dll
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Entidades.dll
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Datos.pdb
+D:\Proyecto Final\Ventas_Final\Logica\bin\Debug\Entidades.pdb
+D:\Proyecto Final\Ventas_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Final\Ventas_Final\Logica\obj\Debug\Logica.dll
+D:\Proyecto Final\Ventas_Final\Logica\obj\Debug\Logica.pdb
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Logica.dll
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Logica.pdb
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Datos.dll
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Entidades.dll
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Datos.pdb
+H:\Utiliarios Monografico\Ventas_Final\Logica\bin\Debug\Entidades.pdb
+H:\Utiliarios Monografico\Ventas_Final\Logica\obj\Debug\ResolveAssemblyReference.cache
+H:\Utiliarios Monografico\Ventas_Final\Logica\obj\Debug\Logica.dll
+H:\Utiliarios Monografico\Ventas_Final\Logica\obj\Debug\Logica.pdb

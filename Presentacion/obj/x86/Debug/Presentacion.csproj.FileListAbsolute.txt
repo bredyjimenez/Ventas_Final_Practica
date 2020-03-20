@@ -1,0 +1,182 @@
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.pdb
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Entidades.dll
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Logica.dll
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Datos.dll
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Entidades.pdb
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Logica.pdb
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Datos.pdb
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\BlackCrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Logica.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Datos.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Entidades.dll
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Logica.dll
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Datos.dll
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Logica.pdb
+C:\Users\O\Documents\Secc_901_Final\Presentacion\bin\Debug\Datos.pdb
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmAcercaDe.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\O\Documents\Secc_901_Final\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Presentacion.pdb
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Entidades.dll
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Logica.dll
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Datos.dll
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Entidades.pdb
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Logica.pdb
+D:\Proyecto Final\Ventas_Final\Presentacion\bin\Debug\Datos.pdb
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmAcercaDe.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Proyecto Final\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Presentacion.exe
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Entidades.dll
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Logica.dll
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Datos.dll
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Entidades.pdb
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Logica.pdb
+D:\Ventas_Final Claritza Vielka\Presentacion\bin\Debug\Datos.pdb
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmAcercaDe.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Ventas_Final Claritza Vielka\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe.config
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Presentacion.pdb
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Entidades.dll
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Logica.dll
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Datos.dll
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Entidades.pdb
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Logica.pdb
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\bin\Debug\Datos.pdb
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmAcercaDe.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmClientes.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoClientes.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoFabricante.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoProducto.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmPrincipal.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmMantenimientoVendedor.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmProducto.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmSeleccionFabricantes.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmVendedor.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.frmVentas.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.read.3.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Utiliarios Monografico\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.FLogin.resources
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Utilitarios Monografico (C# y SQL)\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe.config
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Utilitarios Monografico (C# y SQL)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Utilitarios Monografico (C# y SQL)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe.config
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.pdb
+H:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\bin\Debug\Presentacion.exe.config
+H:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.exe
+H:\DOCUMENTOS\TODO\LENGUAJES DE PROGRAMACION\PLATAFORMA.NET\C#\Aplicaciones y Practicas (C#)\Ventas_Final\Presentacion\obj\x86\Debug\Presentacion.pdb

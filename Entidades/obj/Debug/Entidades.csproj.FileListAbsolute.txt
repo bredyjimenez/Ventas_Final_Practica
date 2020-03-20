@@ -1,0 +1,30 @@
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Entidades\bin\Debug\Entidades.dll
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Entidades\bin\Debug\Entidades.pdb
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\Entidades.dll
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Secc_901_Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Secc_901_Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\Peter\Documents\Secc_901_Final\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Entidades\obj\Debug\Entidades.pdb
+C:\Users\O\Documents\Secc_901_Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\O\Documents\Secc_901_Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\O\Documents\Secc_901_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\O\Documents\Secc_901_Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\O\Documents\Secc_901_Final\Entidades\obj\Debug\Entidades.pdb
+D:\Proyecto Final\Ventas_Final\Entidades\bin\Debug\Entidades.dll
+D:\Proyecto Final\Ventas_Final\Entidades\bin\Debug\Entidades.pdb
+D:\Proyecto Final\Ventas_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Final\Ventas_Final\Entidades\obj\Debug\Entidades.dll
+D:\Proyecto Final\Ventas_Final\Entidades\obj\Debug\Entidades.pdb
+H:\Utiliarios Monografico\Ventas_Final\Entidades\bin\Debug\Entidades.dll
+H:\Utiliarios Monografico\Ventas_Final\Entidades\bin\Debug\Entidades.pdb
+H:\Utiliarios Monografico\Ventas_Final\Entidades\obj\Debug\ResolveAssemblyReference.cache
+H:\Utiliarios Monografico\Ventas_Final\Entidades\obj\Debug\Entidades.dll
+H:\Utiliarios Monografico\Ventas_Final\Entidades\obj\Debug\Entidades.pdb

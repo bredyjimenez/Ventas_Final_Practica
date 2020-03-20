@@ -1,0 +1,44 @@
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Datos.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Datos.pdb
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\Datos.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\Datos.pdb
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Datos.dll.config
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Entidades.dll
+c:\Documents and Settings\BlackCrystal™\Mis documentos\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Datos\bin\Debug\Datos.dll.config
+C:\Users\Peter\Documents\Secc_901_Final\Datos\bin\Debug\Datos.dll
+C:\Users\Peter\Documents\Secc_901_Final\Datos\bin\Debug\Datos.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Datos\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Secc_901_Final\Datos\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Secc_901_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Secc_901_Final\Datos\obj\Debug\Datos.dll
+C:\Users\Peter\Documents\Secc_901_Final\Datos\obj\Debug\Datos.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Datos.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Datos.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Entidades.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\bin\Debug\Entidades.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\Datos.dll
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\Secc_901_Final\Datos\obj\Debug\Datos.pdb
+C:\Users\O\Documents\Secc_901_Final\Datos\bin\Debug\Datos.dll
+C:\Users\O\Documents\Secc_901_Final\Datos\bin\Debug\Datos.pdb
+C:\Users\O\Documents\Secc_901_Final\Datos\bin\Debug\Entidades.dll
+C:\Users\O\Documents\Secc_901_Final\Datos\bin\Debug\Entidades.pdb
+C:\Users\O\Documents\Secc_901_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\O\Documents\Secc_901_Final\Datos\obj\Debug\Datos.dll
+C:\Users\O\Documents\Secc_901_Final\Datos\obj\Debug\Datos.pdb
+D:\Proyecto Final\Ventas_Final\Datos\bin\Debug\Datos.dll
+D:\Proyecto Final\Ventas_Final\Datos\bin\Debug\Datos.pdb
+D:\Proyecto Final\Ventas_Final\Datos\bin\Debug\Entidades.dll
+D:\Proyecto Final\Ventas_Final\Datos\bin\Debug\Entidades.pdb
+D:\Proyecto Final\Ventas_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Final\Ventas_Final\Datos\obj\Debug\Datos.dll
+D:\Proyecto Final\Ventas_Final\Datos\obj\Debug\Datos.pdb
+H:\Utiliarios Monografico\Ventas_Final\Datos\bin\Debug\Datos.dll
+H:\Utiliarios Monografico\Ventas_Final\Datos\bin\Debug\Datos.pdb
+H:\Utiliarios Monografico\Ventas_Final\Datos\bin\Debug\Entidades.dll
+H:\Utiliarios Monografico\Ventas_Final\Datos\bin\Debug\Entidades.pdb
+H:\Utiliarios Monografico\Ventas_Final\Datos\obj\Debug\ResolveAssemblyReference.cache
+H:\Utiliarios Monografico\Ventas_Final\Datos\obj\Debug\Datos.dll
+H:\Utiliarios Monografico\Ventas_Final\Datos\obj\Debug\Datos.pdb
